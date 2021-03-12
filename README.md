@@ -11,7 +11,7 @@
 + [IONOS by 1&1 » Ihre Marke für Mail, Domain & Website](https://www.ionos.de)
 + [STRATO | Gedacht. Gemacht.](https://www.strato.de/)
 + [netcup GmbH - Ihr Partner fuer Webhosting, vServer, Server, managed Server, Domains](https://www.netcup.de/)
-+ [contabo](https://contabo.com/de/)
++ [Contabo 🥇 Starke VPS & Dedicated Server zu unglaublichen Preisen 🥇](https://contabo.com/de/)
 + [Domain Name Search | HEXONET](https://www.hexonet.net/)
 
 
