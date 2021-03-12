@@ -4,7 +4,7 @@ Opracowanie zawiera aktualne oferty na rok 2021.
 
 ## Status opracowania
 
-Opracowanie w trakcie tworzenie
+Opracowanie jest w trakcie tworzenia
 + Rozpoczęcie: 12.03.2021
 + Zakończenie: 12.04.2021
 + Aktualizacja: co kwartał
