@@ -1,6 +1,15 @@
 # [Serwery .de](https://www.serwery.de/)
 
-+ Opracowanie aktualne na rok 2021 o ofertach niemieckich providerów:
+Opracowanie zawiera aktualne oferty na rok 2021.
+
+## Status opracowania
+
+Opracowanie w trakcie tworzenie
++ Rozpoczęcie: 12.03.2021
++ Zakończenie: 12.04.2021
++ Aktualizacja: co kwartał
+
+## Oferty niemieckich providerów:
   + domen
   + serwerów wirtualnych VPS na wirtualizacji KVM
   + serwerów dedykowanych
@@ -16,11 +25,6 @@
 + [Domain Name Search - HEXONET](https://www.hexonet.net/)
 
 
-## Status opracowanie
-Opracowanie w trakcie tworzenie
-+ Rozpoczęcie: 12.03.2021
-+ Zakończenie: 12.04.2021
-+ Aktualizacja: co kwartał
 
 # Oferty usług
 
