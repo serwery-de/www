@@ -1,4 +1,5 @@
-# Serwery .de
+# [Serwery .de](https://www.serwery.de/)
+
 + Opracowanie aktualne na rok 2021 o ofertach niemieckich providerów:
   + domen
   + serwerów wirtualnych VPS na wirtualizacji KVM
@@ -8,11 +9,11 @@
 
 # Lista operatorów:
 
-+ [IONOS by 1&1 » Ihre Marke für Mail, Domain & Website](https://www.ionos.de)
-+ [STRATO | Gedacht. Gemacht.](https://www.strato.de/)
++ [IONOS by 1&1 - Ihre Marke für Mail, Domain & Website](https://www.ionos.de)
++ [STRATO - Gedacht. Gemacht.](https://www.strato.de/)
 + [netcup GmbH - Ihr Partner fuer Webhosting, vServer, Server, managed Server, Domains](https://www.netcup.de/)
 + [Contabo 🥇 Starke VPS & Dedicated Server zu unglaublichen Preisen 🥇](https://contabo.com/de/)
-+ [Domain Name Search | HEXONET](https://www.hexonet.net/)
++ [Domain Name Search - HEXONET](https://www.hexonet.net/)
 
 
 ## Status opracowanie
