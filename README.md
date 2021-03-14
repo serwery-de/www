@@ -1,3 +1,5 @@
+![logo](https://logo.serwery.de/2/cover.png)
+
 # [Serwery .de](https://www.serwery.de/)
 
 Opracowanie zawiera aktualne oferty na rok 2021.
