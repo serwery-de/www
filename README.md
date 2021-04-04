@@ -39,3 +39,9 @@ Opracowanie jest w trakcie tworzenia
 
 
 ## Cloud
+
+
+# Backup Service/Software
+https://www.strato.de/cloud-speicher/cloud-speicher-vergleich/
+
+![backup](img/backup.png)
